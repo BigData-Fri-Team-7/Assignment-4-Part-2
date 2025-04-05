@@ -1,6 +1,7 @@
 # Use an official Python runtime as the base image
 FROM python:3.9-slim
-
+# Install system dependencies including git
+RUN apt-get update && apt-get install -y git build-essential && rm -rf /var/lib/apt/lists/*
 # Prevent Python from writing .pyc files and enable unbuffered logging
 ENV PYTHONDONTWRITEBYTECODE=1
 ENV PYTHONUNBUFFERED=1
