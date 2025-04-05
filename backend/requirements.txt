@@ -16,4 +16,4 @@ docling
 pinecone-client
 langchain
 nltk
-transformers>=4.32.0
+transformers>=4.33.0
