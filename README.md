@@ -2,8 +2,8 @@
 
 This repository contains the code for **Assignment 4.2: Building a RAG Pipeline with Airflow**. The project aims to develop an AI-powered information retrieval application that processes unstructured data from PDFs (e.g., NVIDIA quarterly reports) and web pages by implementing a Retrieval-Augmented Generation (RAG) pipeline. This pipeline is designed for modularity and extensibility to support future applications.
 
-##Frontend:
-##Backend:
+##Frontend:http://34.67.213.206:8501
+##Backend:http://34.67.213.206:8000
 ##Demo Video:https://drive.google.com/file/d/1TnzO4GA__hnNtz6I7bBsRu4uFI5QIlFp/view?usp=sharing
 ## Table of Contents
 
