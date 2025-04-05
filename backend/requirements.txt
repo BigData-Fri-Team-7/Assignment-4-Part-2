@@ -9,11 +9,12 @@ google-generativeai
 openai
 anthropic
 numpy
-sentence-transformers>=2.2.2
 scikit-learn
 mistralai
 docling
 pinecone-client
 langchain
 nltk
-transformers>=4.33.0
+sentence-transformers==2.2.2
+transformers==4.33.3
+
