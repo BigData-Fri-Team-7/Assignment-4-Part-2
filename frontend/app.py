@@ -7,7 +7,7 @@ import boto3
 
 load_dotenv()  # Load environment variables if necessary
 
-BACKEND_BASE = "http://localhost:8000"
+BACKEND_BASE = "http:34.67.213.206:8000"
 UPLOAD_ENDPOINT = f"{BACKEND_BASE}/upload_pdf/"
 CHAT_ENDPOINT = f"{BACKEND_BASE}/chat/"
 
