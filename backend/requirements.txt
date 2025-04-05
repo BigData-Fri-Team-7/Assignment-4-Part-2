@@ -12,7 +12,7 @@ numpy
 scikit-learn
 mistralai
 docling
-pinecone-client
+pinecone
 langchain
 nltk
 sentence-transformers @ git+https://github.com/UKPLab/sentence-transformers.git@master#egg=sentence-transformers
