@@ -16,6 +16,7 @@ pinecone-client
 langchain
 nltk
 sentence-transformers @ git+https://github.com/UKPLab/sentence-transformers.git@master#egg=sentence-transformers
-transformers==4.33.3
+transformers==4.41.0
+
 
 
