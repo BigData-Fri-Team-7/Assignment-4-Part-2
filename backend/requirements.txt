@@ -15,7 +15,7 @@ docling
 pinecone-client
 langchain
 nltk
-sentence-transformers==2.2.2
-transformers==4.33.3
+transformers==4.32.0
 huggingface_hub==0.13.3
+sentence-transformers==2.2.2
 
