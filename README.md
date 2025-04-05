@@ -61,5 +61,7 @@ In this project, we:
 - **Documentation & Presentation**  
   - Comprehensive project documentation, diagrams, a CodeLab, and a demo video.
 
-## Project Structure
+## Architecture Diagram:
+![image](https://github.com/user-attachments/assets/e4793780-97ec-41b1-8905-556dd2cbd70c)
+
 
