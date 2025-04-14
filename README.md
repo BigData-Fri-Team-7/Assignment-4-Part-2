@@ -6,7 +6,7 @@ This repository contains the code for **Assignment 4.2: Building a RAG Pipeline 
 ##Backend:http://34.67.213.206:8000
 ##Demo Video:https://drive.google.com/file/d/1TnzO4GA__hnNtz6I7bBsRu4uFI5QIlFp/view?usp=sharing
 
-## Codelab Doc Link:https://codelabs-preview.appspot.com/?file_id=1Q6Kf5FYMhkZ2Z5gPE5J9EXS6IOc7N0mWvNQGBSMmRcY#0
+#Codelab Doc Link: https://codelabs-preview.appspot.com/?file_id=1Q6Kf5FYMhkZ2Z5gPE5J9EXS6IOc7N0mWvNQGBSMmRcY#0
 ## Table of Contents
 
 - [Project Overview](#project-overview)
